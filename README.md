@@ -1,5 +1,4 @@
-# ROUS-E-demo
-This is my first web development project. 99% of it is based on open-source resources and chatGPT. I mostly edited the content and wrote a small amount of code.
-still developing
+# ROUS-E Demo
+This is my first web development project, with 99% of it based on open-source resources and ChatGPT. My contributions mainly involved content editing and writing a small amount of code. The project is still under development, and it hasn't been optimized for mobile yet.
 
-https://rousedemo.netlify.app/
+Check it out here: [ROUS-E Demo](https://rousedemo.netlify.app/)
